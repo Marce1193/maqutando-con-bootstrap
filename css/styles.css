@@ -27,7 +27,6 @@ body {
     grid-area: header;
 }
 
-.container .header .header__nav ul li:hover,
 .container .footer .footer__div ul li:hover {
     background-color: #D6DBDC;
     font-weight: 700;
@@ -67,6 +66,7 @@ body {
     justify-content: space-between;
     list-style-type: none;
     padding: 10px;
+    margin: 0;
     border-radius: 10px;
 
 }
